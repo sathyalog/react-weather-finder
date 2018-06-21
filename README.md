@@ -1,3 +1,16 @@
+## Weather Finder App 
+Thanks to Hamza Mirza for step by step tutorial on weather finder app from basics.
+
+`npm start` to run the application
+
+Some basics of react in simple words:
+### what are props?
+props - props are like html attributes and pass this to any component. so, component will have access to props. 
+### what is state?
+state is an object that lives with the component and responsible for keeping track of changing data within component. that change could be result of user interaction like click etc. 
+
+
+##Bla...bla... all you need from react documentation :)
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
