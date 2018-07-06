@@ -1,5 +1,6 @@
 import React from 'react';
 
+//normal way of rendering using class extends react component
 class Form extends React.Component {
     render() {
         return (
