@@ -17,7 +17,7 @@ import React from 'react';
 // the above class can also be written as below only in case if we do not have any state and also returning one simple div
 // another way of rendering using arrow function and props
 const Weather = (props) => (
-    <div>
+    <div className="weather__info">
         { props.city && props.country && <p>Location: {props.city},{props.country}</p>}
         { props.temperature && <p>Temperature: {props.temperature}</p>}
         { props.humidity && <p>Humidity:{props.humidity}</p>}
